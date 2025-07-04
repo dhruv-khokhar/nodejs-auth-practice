@@ -1,0 +1,3 @@
+# this file contains all the files/folders that should be ignores by git and not pushed to the repo (ie not made public)
+node_modules
+.env
